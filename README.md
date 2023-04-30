@@ -1,1 +1,1 @@
-add logs
+Improve Docs arguments tables (#8415)
