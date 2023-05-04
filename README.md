@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add HUB-SDK Docs reference section (#7781)
