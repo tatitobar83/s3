@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Hold failed upload metrics and upload with next upload metrics (#8513)
