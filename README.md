@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
