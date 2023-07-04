@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Rename model_id to model.id (#8447)
