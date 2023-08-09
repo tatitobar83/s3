@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update fraction arg to employ a random selection (#8234)
