@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Fix Neural Magic links (#9144)
