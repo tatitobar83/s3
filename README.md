@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
