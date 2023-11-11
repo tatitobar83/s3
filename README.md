@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Update OpenVINO INT8 export (#7515)
