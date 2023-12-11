@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Reverse IoU threshold for NMS docs descriptions (#9151)
