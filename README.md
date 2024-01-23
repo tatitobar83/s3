@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Update CI.md with CI links (#8786)
