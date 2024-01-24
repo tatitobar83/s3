@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Fix heatmaps width-height order bug (#7184)
