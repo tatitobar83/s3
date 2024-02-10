@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Compress docs images (#8124)
