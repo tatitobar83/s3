@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
