@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+Compress docs images (#8124)
