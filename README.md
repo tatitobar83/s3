@@ -1,1 +1,1 @@
-Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
