@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+fix for KeyError: 'epoch' (#48)
