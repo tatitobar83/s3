@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add CoreML Docs Integrations Page (#8063)
