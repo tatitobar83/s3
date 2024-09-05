@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Clean up unused imgsz (#7771)
