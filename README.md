@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Clarify triton server boolean value (#8532)
