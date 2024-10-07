@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
