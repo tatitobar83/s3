@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
